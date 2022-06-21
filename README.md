@@ -1,5 +1,3 @@
-# hrithik16032000
-
 # Hrithik Gavankar
 
 <a href="https://profile-summary-for-github.com/user/hrithik16032000">
