@@ -4,7 +4,7 @@
     <p><img src="https://komarev.com/ghpvc/?username=hrithik16032000&color=red"/></p>
 </a>
 
-<h4 align="center">Hi there! 👋 I'm a Final Year Electronics & Telecommunication Engineering Student 👨‍💼 from Mumbai, Maharashtra, India who has good knowledge and also hands-on experience in Front-end Web Development with potential of a Full-Stack. I have successfully deployed many Web Applications with Reactjs. In my free time, you'll find me listening music, working out at the gym, studying about health and nutrition. Below are the profiles related to  my Social Contact Links
+<h4 align="center">Hi there! 👋 I'm a Software Engineer 👨‍💼 from Mumbai, Maharashtra, India who has good knowledge and also hands-on experience in Full Stack Web Development with React, Nodejs & Firebase. I have successfully deployed many Web Applications with Reactjs. In my free time, you'll find me listening music, working out at the gym, studying about health and nutrition. Below are the profiles related to  my Social Contact Links
 </h4>
 
 <!--
